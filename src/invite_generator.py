@@ -87,7 +87,7 @@ class InviteGenerator():
 
     def _get_customers_data(self):
         """
-        Helper methos to parse the customers data from the customers.txt file
+        Helper method to parse the customers data from the customers.txt file
         :return: Map
         """
         try:
