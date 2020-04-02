@@ -22,7 +22,7 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         '--distance', dest='distance', action='store',
-        help='URL to be used to build sitemap',
+        help='distance from the office in km',
         default=100
     )
     parser.add_argument(
